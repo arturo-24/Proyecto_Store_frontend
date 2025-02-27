@@ -33,9 +33,6 @@ Tienda_Ropa/
 Este proyecto está diseñado para ofrecer una experiencia de compra atractiva y fluida. Si tienes sugerencias o mejoras, ¡tu contribución es bienvenida! 💡✨
 
 
-## Estructura del Proyecto
-Proyecto/ ├── index.html├── css/ │ ├── styles.css│└── img|├── logo.png
-└── productos/ ├── producto1.jpg├── producto2.jpg└── ...
 
 
 
