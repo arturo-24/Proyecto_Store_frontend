@@ -1,5 +1,5 @@
 # Proyecto_Store_frontend
-[![Screenshot-2025-02-27-102527.png](https://i.postimg.cc/26xYgXJ7/Screenshot-2025-02-27-102527.png)](https://postimg.cc/phy3FkPm)
+[![Screenshot-2025-02-27-102742.png](https://i.postimg.cc/gk7p9hMQ/Screenshot-2025-02-27-102742.png)](https://postimg.cc/LnjwLJF3)
 
 # Tienda de Ropa Frontend
 
