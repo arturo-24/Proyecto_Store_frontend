@@ -1,4 +1,6 @@
 # Proyecto_Store_frontend
+[![Screenshot-2025-02-27-102527.png](https://i.postimg.cc/26xYgXJ7/Screenshot-2025-02-27-102527.png)](https://postimg.cc/phy3FkPm)
+
 # Tienda de Ropa Frontend
 
 Bienvenido al repositorio de la Tienda de Ropa Frontend. Este proyecto es una página web diseñada para una tienda de ropa, creada utilizando HTML y CSS, con especial énfasis en los patrones de Responsive Web Design para asegurar una experiencia óptima en cualquier dispositivo.
